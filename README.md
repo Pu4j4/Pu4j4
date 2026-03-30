@@ -6,7 +6,7 @@ I specialize in building **scalable, secure, and efficient backend systems**. I 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently building a **WhatsApp Bulk Messenger** with a robust **REST API** using **DRF**
+- 🔭 I’m currently building a **Customer Management Messaging System** with a robust **REST API** using **DRF**
 - 🌱 I’m deepening my expertise in **Django Rest Framework (DRF)**, **React.js** and **Database Indexing**
 - ⚙️ I'm passionate about **System Design**, **Caching (Redis)**, and **Asynchronous Tasks (Celery)**
 - 🎯 My 2026 goal: **Mastering Kubernetes and Cloud Deployment**
