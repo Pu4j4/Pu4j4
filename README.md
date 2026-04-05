@@ -33,7 +33,7 @@ I specialize in building **scalable, secure, and efficient backend systems**. I 
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pu4j4&show_icons=true&theme=radical)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=pu4j4&theme=tokyonight&hide_border=false&cache_seconds=1800)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pu4j4&layout=compact&theme=radical)
 
 ---
