@@ -36,7 +36,7 @@ I specialize in building **scalable, secure, and efficient backend systems**. I 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pu4j4&theme=tokyonight&hide_border=false&cache_seconds=1800)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pu4j4&layout=compact&theme=radical)
 
----
+--- 
 
 ### ⚡ Backend Philosophy
 > "Backend development is the art of making the complex look invisible. I believe in building systems that don't just work, but scale—leveraging asynchronous tasks and optimized queries to handle high-volume data without breaking a sweat."
