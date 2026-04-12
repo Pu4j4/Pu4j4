@@ -10,7 +10,7 @@ I specialize in building **scalable, secure, and efficient backend systems**. I 
 - 🌱 I’m deepening my expertise in **Django Rest Framework (DRF)**, **React.js** and **Database Indexing**
 - ⚙️ I'm passionate about **System Design**, **Caching (Redis)**, and **Asynchronous Tasks (Celery)**
 - 🎯 My 2026 goal: **Mastering Kubernetes and Cloud Deployment**
-- 🏆 **Problem Solving:** Solved **180+ challenges on LeetCode**, focusing on Arrays, Hash Tables, and Linked Lists.
+- 🏆 **Problem Solving:** Solved **200+ challenges on LeetCode**, focusing on Arrays, Hash Tables, and Linked Lists.
 - 📚 When I'm not coding, I'm likely reading about **Software Design Patterns**, **practicing Yoga to stay balanced, or tending to my growing collection of Indoor Plants 🌿✨**
 - 📫 Connect with me: **(https://www.linkedin.com/in/bhanu-bethala/)**
 
